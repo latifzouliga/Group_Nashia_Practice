@@ -8,9 +8,13 @@ public class GroupPractice {
 
         System.out.println("Let's broke and then fix this system");
 
+        System.out.println("zouliga TC 12");
+
 
         System.out.println("TC003");
 
         System.out.println("TC005");
+
+        System.out.println("TC 001");
     }
 }
