@@ -9,5 +9,6 @@ public class GroupPractice {
 
         System.out.println("TC003");
 
+        System.out.println("TC005");
     }
 }
